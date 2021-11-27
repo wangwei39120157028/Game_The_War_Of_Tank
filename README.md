@@ -21,5 +21,7 @@ The_War_Of_Tank这款坦克游戏是以罗培羽老师的《Unity 3D网络游戏
 ![99](https://user-images.githubusercontent.com/39434325/120072781-0d0ed480-c0c8-11eb-8eca-fc795e5bb5f1.png)
 ![100](https://user-images.githubusercontent.com/39434325/120072784-0f712e80-c0c8-11eb-880d-7ea6a5e4bec2.png)
 ![110](https://user-images.githubusercontent.com/39434325/120072787-126c1f00-c0c8-11eb-99e1-ba5c9757fb46.png)
+###2021.11.27更新
+使用CKingE作弊器加强游戏主坦克，不然一遍一遍重开，地图有点大了，我暂时还没那么多时间做好它，后续会再更新<br>
 #### Github地址：https://github.com/wangwei39120157028/Game_The_War_Of_Tank<br>
 #### Gitee地址：https://gitee.com/wwy2018/Game_The_War_Of_Tank
